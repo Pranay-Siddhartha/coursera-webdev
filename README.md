@@ -1,2 +1,2 @@
 # coursera-webdev
-theme: Cayman
+theme: jekyll-theme-minimal
